@@ -72,7 +72,7 @@ project/
 - **Entrada**: `.... --- .-.. .- / -- ..- -. -.. ---`
 - **Salida**: `HOLA MUNDO`
 
-## 📸 Capturas de pantalla
+## 📸 Captura de pantalla
 ![image](https://github.com/user-attachments/assets/cdc2fd3c-b0e1-449f-ba95-329fe8c8b4c2)
 
 
